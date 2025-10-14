@@ -40,7 +40,7 @@ async run(message, args){
         .addField("`Username`",userinfo.uname, true)
         .addField("`Verified?`",userinfo.verified, true)
         .setColor(0xf0e5da)
-        .setFooter('Created By -> IG🔰VOLT™ | ΜΔĐ乛TeamIG™#8929 since', "https://cdn.discordapp.com/avatars/689388891106705467/a_fdad411f1a344a374ac6dbd8089607be.gif")
+        .setFooter('Created By -> Swayam | For MAD-Crypto since', "https://cdn.discordapp.com/avatars/689388891106705467/a_fdad411f1a344a374ac6dbd8089607be.gif")
         .setTitle("INFORMATION ABOUT `WoW Music`")
         .setThumbnail("https://cdn.discordapp.com/avatars/822484015801040896/615a3ef2637eba811eccf2995106f33a.png")
         .setTimestamp(userinfo.createdat)
